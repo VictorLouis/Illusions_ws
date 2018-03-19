@@ -1,4 +1,4 @@
-# Taller ilusiones visuales
+V# Taller ilusiones visuales
 
 ## Propósito
 
@@ -15,7 +15,7 @@ Complete la tabla:
 
 | Integrante | github nick |
 |------------|-------------|
-|            |             |
+| Victor Luis Angulo Tovar   |    VictorLouis         |
 
 ## Discusión
 
@@ -23,14 +23,15 @@ Complete la tabla:
 
 | Ilusión | Categoria | Referencia | Tipo de interactividad (si aplica) | URL código base (si aplica) |
 |---------|-----------|------------|------------------------------------|-----------------------------|
-|         |           |            |                                    |                             |
-|         |           |            |                                    |                             |
-|         |           |            |                                    |                             |
-|         |           |            |                                    |                             |
-|         |           |            |                                    |                             |
-|         |           |            |                                    |                             |
+|  Colores          |  Psicologica   | Rami Madani       |    'a' para activar     |                             |
+|  Moving Squares   |  Psicologica   | Bridget Louise Rile, 1961   | movimiento mouse  |                             |
+|  hipnotize        |  Psicologica   | Hermann grid         |                                    |                             |
+|  Stepping Feet    |  Psicologica   | E. Lingelbach, 1994 |   'a' para activar       |                             |
+|  Fibonacci Circle |  Geometrica    |  Fibonacci    |                                    |                             |
+|   Grid illussion  |  Psicologica   |   Ludimar Hermann in 1870    |                                    |                           |
 
 2. Describa brevememente las referencias estudiadas y los posibles temas en los que le gustaría profundizar:
+Basicamente estudie a fibonacci, un poco de Ludimar Hermann y el concepto de Op art que es un tipo de arte abstracto inspirado del cubismo, Futurismo y Constructivismo en el cual su obhetivo es crear ilusiones. Finalmente me gustaria profundizar sobre interaccion en un ambito en tercera dimension.
 
 ## Entrega
 
